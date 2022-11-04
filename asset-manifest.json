@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/psc-react-version/static/css/main.c04a3daa.css",
-    "main.js": "/psc-react-version/static/js/main.9989b07e.js",
+    "main.js": "/psc-react-version/static/js/main.66602566.js",
     "static/media/video_1.mp4": "/psc-react-version/static/media/video_1.21694e7af4470d907501.mp4",
     "static/media/video_3.mp4": "/psc-react-version/static/media/video_3.1a148fc26315d5880d20.mp4",
     "static/media/video_2.mp4": "/psc-react-version/static/media/video_2.d0419ac87db9063b2bba.mp4",
@@ -35,10 +35,10 @@
     "static/media/psc-logo.jpg": "/psc-react-version/static/media/psc-logo.b5b31411fa2d218e856c.jpg",
     "index.html": "/psc-react-version/index.html",
     "main.c04a3daa.css.map": "/psc-react-version/static/css/main.c04a3daa.css.map",
-    "main.9989b07e.js.map": "/psc-react-version/static/js/main.9989b07e.js.map"
+    "main.66602566.js.map": "/psc-react-version/static/js/main.66602566.js.map"
   },
   "entrypoints": [
     "static/css/main.c04a3daa.css",
-    "static/js/main.9989b07e.js"
+    "static/js/main.66602566.js"
   ]
 }
